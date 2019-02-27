@@ -74,5 +74,5 @@
       11. git merge blahbranch
 --------------------------------------------
       HAHAHA
- allesgut     
+ all right     
 thank you
